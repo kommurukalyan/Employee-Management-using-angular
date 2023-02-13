@@ -13,8 +13,8 @@
       "id": 1
     },
     {
-      "firstname": "Rohit",
-      "lastname": "Shah",
+      "firstname": "Virat",
+      "lastname": "kohli",
       "birthdate": "1985-09-23",
       "gender": "m",
       "education": "10th pass",
@@ -25,8 +25,8 @@
       "id": 4
     },
     {
-      "firstname": "Amy",
-      "lastname": "Moore",
+      "firstname": "Smriti",
+      "lastname": "Mandhana",
       "birthdate": "2014-07-18",
       "gender": "f",
       "education": "diploma",
@@ -37,8 +37,8 @@
       "id": 5
     },
     {
-      "firstname": "Peter ",
-      "lastname": "May",
+      "firstname": "Surya",
+      "lastname": "Kumar",
       "birthdate": "2007-07-06",
       "gender": "m",
       "education": "graduate",
@@ -49,8 +49,8 @@
       "id": 6
     },
     {
-      "firstname": "Pankaj",
-      "lastname": "Kumar",
+      "firstname": "Ravindra",
+      "lastname": "Jadeja",
       "birthdate": "1978-07-20",
       "gender": "m",
       "education": "PhD",
@@ -61,8 +61,8 @@
       "id": 7
     },
     {
-      "firstname": "Prathamesh",
-      "lastname": "Shetty",
+      "firstname": "Mahendra singh",
+      "lastname": "Dhoni",
       "birthdate": "1999-06-09",
       "gender": "m",
       "education": "graduate",
@@ -73,8 +73,8 @@
       "id": 8
     },
     {
-      "firstname": "Nikhil",
-      "lastname": "Rane",
+      "firstname": "Suresh",
+      "lastname": "Raina",
       "birthdate": "1980-05-23",
       "gender": "m",
       "education": "post graduate",
@@ -83,30 +83,6 @@
       "salary": 4.9,
       "profile": "Profile-03.jpg",
       "id": 9
-    },
-    {
-      "firstname": "Pooja",
-      "lastname": "Kumari",
-      "birthdate": "1990-08-30",
-      "gender": "f",
-      "education": "graduate",
-      "company": "Google",
-      "jobExperience": 12,
-      "salary": 35,
-      "profile": "Profile-05.jpg",
-      "id": 10
-    },
-    {
-      "firstname": "Yash",
-      "lastname": "Chauhan",
-      "birthdate": "1995-11-24",
-      "gender": "m",
-      "education": "post graduate",
-      "company": "Fiserv",
-      "jobExperience": 13,
-      "salary": 25,
-      "profile": "Profile-03.jpg",
-      "id": 11
     }
   ],
   "comments": [],
